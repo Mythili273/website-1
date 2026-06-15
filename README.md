@@ -1,0 +1,7 @@
+"This website is my first step into the world of web development and was created during my journey as a Computer Science and Engineering student. Building this project allowed me to apply theoretical concepts in a practical environment while learning the fundamentals of front-end development. I designed and developed the website using HTML and CSS, focusing on creating a clean, structured, and user-friendly interface. Through this project, I gained hands-on experience in webpage layout design, content organization, styling techniques, and responsive design principles.
+
+As my first web development project, this website represents the beginning of my technical growth and problem-solving skills in software development. It helped me understand how websites are built from scratch and strengthened my confidence in learning modern web technologies. This project serves as an important milestone in my journey toward becoming a skilled software engineer and motivates me to continue exploring advanced web development frameworks and technologies."
+
+For a portfolio:
+
+"Developed as my first web development project during my second year of Computer Science and Engineering, this website showcases my foundational knowledge of HTML, CSS, and web design. The project provided valuable hands-on experience in creating structured web pages, implementing visual styling, and understanding the core principles of user interface design. It marks the beginning of my journey in web development and reflects my enthusiasm for learning and building innovative digital solutions."
